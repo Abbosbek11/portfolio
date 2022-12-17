@@ -1,0 +1,23 @@
+
+    #col{
+        position: relative;
+        left: 380px;
+    }
+    @media only screen and (max-width: 767px) {
+        #img{
+           margin-left: -92px;
+           margin-top: -19px;
+        }
+        #row{
+            position: relative;
+            left: 50px;
+        }
+        .box2{
+         position: relative;
+         top: 20px;
+        }
+        .img-fluid{
+            position: relative;
+            left: 30px;
+        }
+    }
